@@ -25,12 +25,12 @@
     "formidable": "^1.2.1",
     "google-auth-library": "^4.2.4",
     "jsonwebtoken": "^8.4.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.23",
     "mongoose": "^5.4.3",
     "mongoose-mongodb-errors": "0.0.2",
     "morgan": "^1.9.1",
     "nodemailer": "^5.1.1",
-    "nodemon": "^1.18.9",
+    "nodemon": "^2.0.0",
     "uuid": "^3.3.2"
   }
 }
